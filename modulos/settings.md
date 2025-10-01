@@ -22,7 +22,7 @@ El sistema utiliza **múltiples escalas** de evaluación:
 
 **Escala Numérica** (Por defecto):
 - 📊 **0-10** con decimales
-- 🎯 Mínimo aprobado: 5.0
+- 🎯 *Mínimo aprobado*: 5.0
 - ⭐ **Excelente**: 9.0+
 
 **Escala Alfabética** (Opcional):
@@ -45,7 +45,7 @@ Donde:
 Para **asignaturas** con evaluación continua: $$NC = 0.4 × P 1 + 0.4 × P 2 + 0.2 × PF$$
 
 
-Siendo $P_1$ ,$P_2$ los parciales y $PF$ la prueba final.
+Siendo $P_1$ , $P_2$ los parciales y $PF$ la prueba final.
 
 <br>
 <br>
@@ -55,4 +55,4 @@ Siendo $P_1$ ,$P_2$ los parciales y $PF$ la prueba final.
 **¿Necesitas ayuda con la configuración?** Consulta nuestro [centro de soporte](support.cotarelomanage.es) o contacta aladministrador del sistema.
 
 
-Configuración flexible para cada institución educativa.
+*Configuración flexible para cada institución educativa.*
