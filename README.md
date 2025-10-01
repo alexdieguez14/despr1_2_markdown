@@ -91,8 +91,8 @@ El **ROI** (Return on investement) se calcula como $ROI = \frac{Beneficio -Inver
 ## 📧 Contacto y Soporte
 
 - **Email**: soporte@CotareloManage.es
-- **Slack**: Únete a nuestro workspace
-- **Documentación**: docs.CotareloManage.es
+- **Slack**: [Únete a nuestro workspace](cotarelomanage.slack.com)
+- **Documentación**: [docs.CotareloManage.es](docs.CotareloManage.es)
 
 ## 📜 Licencia
 
