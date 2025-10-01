@@ -1,7 +1,7 @@
 
 # 📋 Sistema de Gestión Escolar - CotareloManage
 
-Un sistema completo para la gestión de centros educativos modernos
+> Un sistema completo para la gestión de centros educativos modernos
 
 ## 🎯 Descripción General  
 
