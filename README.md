@@ -5,23 +5,23 @@ Un sistema completo para la gestión de centros educativos modernos
 
 ## 🎯 Descripción General  
 
-**CotareloManage** es una plataforma innovadora diseñada para facilitar la administración de instituciones educativas. Combina tecnología avanzada con una interfaz intuitiva para optimizar los procesos académicos y administrativos.  
+**CotareloManage** es una plataforma innovadora diseñada para **facilitar** la administración de instituciones educativas. Combina tecnología avanzada con una interfaz intuitiva para optimizar los procesos académicos y administrativos.  
 
 ## 🌟 Características Especiales  
 
-- Gestión de estudiantes y profesorado  
+- **Gestión de estudiantes** y profesorado  
 - Dashboard interactivo con métricas en tiempo real  
-- Sistema de calificaciones automatizado  
+- Sistema de **calificaciones** automatizado  
 - Comunicación integrada entre padres, estudiantes y docentes  
-- Reportes personalizables y análisis estadísticos
+- Reportes **personalizables** y análisis estadísticos
 
 
 ## 📊 Estadísticas del Proyecto  
 
 | Métrica              |  Valor     | Estado       |
-|----------------------|------------|---------------|
+|----------------------|:------------:|---------------|
 | Usuarios activos     | 15,247     | ✅ Activo    |
-| Colegios registrados |342         | 📈 Creciendo |
+| Colegios registrados | 342        | 📈 Creciendo |
 | Uptime               | 99.9%      | 🟢 Excelente |
 | Satisfacción         | 4.8 / 5    | ⭐ Muy alta  |
 
@@ -44,9 +44,7 @@ I --> E
 ```
 ## 📈 Creacimiento de Usuarios
 
-La ecuación que modela nuestro crecimiento es:
-
-$U(t) = U_0 * e^(rt)$
+La ecuación que modela nuestro crecimiento es: $$U(t) = U_0 * e^(rt)$$
 
 Donde :
 
@@ -61,14 +59,14 @@ El **ROI** (Return on investement) se calcula como $ROI = \frac{Beneficio -Inver
 
 ## 🔧 Tecnologías Utilizadas
 
-**Frontend**
-- React.js v18.2.0
+### Frontend
+- **React.js** v18.2.0
 - Material-UI para componentes
-- TypeScript para tipado estático
+- **TypeScript** para tipado estático
 
-**Backend**
+### Backend
 - Node.js con Express
-- MongoDB como base de datos
+- **MongoDB** como base de datos
 - JWT para autenticación
 
 <br>
@@ -77,10 +75,10 @@ El **ROI** (Return on investement) se calcula como $ROI = \frac{Beneficio -Inver
 
 - [x] Implementar sistema de login  
 - [x] Crear dashboard principal  
-- [ ] Añadir módulo de calificaciones  
+- [ ] Añadir módulo de **calificaciones**  
 - [ ] Integrar sistema de notificaciones  
 - [ ] Desarrollar app móvil  
-- [ ] Implementar analytics avanzados
+- [ ] Implementar **analytics** avanzados
 
 ## 🤝 Contribuir al Proyecto
 
@@ -92,18 +90,19 @@ El **ROI** (Return on investement) se calcula como $ROI = \frac{Beneficio -Inver
 
 ## 📧 Contacto y Soporte
 
-- Email:soporte@CotareloManage.es
-- Slack: Únete a nuestro workspace
-- Documentación: docs.CotareloManage.es
+- **Email**: soporte@CotareloManage.es
+- **Slack**: Únete a nuestro workspace
+- **Documentación**: docs.CotareloManage.es
 
 ## 📜 Licencia
 
 Este proyecto está bajo la licencia **MIT**. Consulta el archivo ```LICENSE ``` para más detalles.
 <br>
-Desarrollado con ❤️ por el equipo de CotareloManage - Transformando la educación digital
+*Desarrollado con ❤️ por el equipo de **CotareloManage** - Transformando la educación digital*
 
 ## Caracteres Especiales y Escapado
-- Para mostrar caracteres especiales en Markdown:
+Para mostrar caracteres especiales en Markdown:
+
 - Asterisco literal: \*no es cursiva* 
 - Almohadilla literal: \# no es título
 - Barra invertida literal: \\
