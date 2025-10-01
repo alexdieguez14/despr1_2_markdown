@@ -97,6 +97,9 @@ El **ROI** (Return on investement) se calcula como $ROI = \frac{Beneficio -Inver
 ## 📜 Licencia
 
 Este proyecto está bajo la licencia **MIT**. Consulta el archivo ```LICENSE ``` para más detalles.
+
+<br>
+
 <br>
 
 *Desarrollado con ❤️ por el equipo de **CotareloManage** - Transformando la educación digital*
