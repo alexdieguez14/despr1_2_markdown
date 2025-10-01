@@ -4,14 +4,14 @@
 
 ## 🎯 Descripción del Módulo
 
-El sistema de **login** de CotareloManage proporciona autenticación segura mediante JWT (JSON WebTokens) y soporta múltiples métodos de acceso.
+El sistema de **login** de CotareloManage proporciona autenticación segura mediante *JWT* (JSON WebTokens) y soporta múltiples métodos de acceso.
 
 ### 🛡️ Características de Seguridad
-- Encriptación AES-256 para contraseñas
-- Tokens JWT con expiración automática
-- Autenticación de dos factores (2FA) opcional
-- Protección contra ataques de fuerza bruta
-- Auditoría completa de accesos
+- **Encriptación** AES-256 para contraseñas
+- *Tokens JWT* con expiración automática
+- **Autenticación** de dos factores (2FA) opcional
+- *Protección* contra ataques de fuerza bruta
+- **Auditoría** completa de accesos
 
 ## 🚪 Métodos de Autenticación
 |Método|Disponibilidad|Seguridad|Facilidad|
@@ -24,18 +24,18 @@ El sistema de **login** de CotareloManage proporciona autenticación segura medi
 ## 👥 Tipos de Usuario
 ### Estudiantes
 Los **estudiantes** tienen acceso a:
-  1. **Calificaciones**y notas
-  2. Horarios de clase
+  1. **Calificaciones** y notas
+  2. *Horarios* de clase
   3. **Material** educativo
-  4. Comunicación con profesores
+  4. *Comunicación* con profesores
   5. **Tareas** y entregas
 
  ### Profesores
  Los *profesores* pueden:
 - ✅ **Gestionar** sus clases
-- ✅ Subir calificaciones
+- ✅ *Subir* calificaciones
 - ✅ **Comunicarse** con estudiantes y padres
-- ✅ Crear contenido educativo
+- ✅ *Crear* contenido educativo
 - ✅ **Generar** reportes académicos
 
 ### Administradores
@@ -45,9 +45,9 @@ Los **administradores** tienen control total:
 > **Importante**: Los permisos de administrador deben asignarse con extrema precaución.
 
 - 🔧 **Gestión** completa de usuarios
-- 🔧 Configuración del sistema
+- 🔧 *Configuración* del sistema
 - 🔧 **Backup** y restauración
-- 🔧 Monitoreo y estadísticas
+- 🔧 *Monitoreo* y estadísticas
 - 🔧 **Soporte** técnico
 
 <br>
