@@ -108,4 +108,5 @@ Los **picos** de login se producen:
 > 🛡️ **Seguridad**: Nunca compartas tus credenciales. CotareloManage nunca te pedirá tucontraseña por email.
 
 **¿Problemas de acceso?** Usa el chat de soporte en vivo disponible 24/7.
+
 *Sistema de login seguro y confiable* 🔐
