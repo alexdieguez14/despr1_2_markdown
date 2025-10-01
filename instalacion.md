@@ -180,9 +180,9 @@ npm run restart
 
 Una vez completada la instalación:
    1. **Configura** tu primer usuario administrador
-   2. Personaliza la configuración del centro educativo
+   2. *Personaliza* la configuración del centro educativo
    3. **Importa** datos existentes (si los hay)
-   4. Capacita al personal en el uso del sistema
+   4. *Capacita* al personal en el uso del sistema
 
 <br>
 
