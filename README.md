@@ -5,14 +5,14 @@
 
 ## 🎯 Descripción General  
 
-**CotareloManage** es una plataforma innovadora diseñada para **facilitar** la administración de instituciones educativas. Combina tecnología avanzada con una interfaz intuitiva para optimizar los procesos académicos y administrativos.  
+**CotareloManage** es una plataforma *innovadora* diseñada para **facilitar** la administración de instituciones educativas. Combina tecnología avanzada con una interfaz *intuitiva* para optimizar los procesos académicos y administrativos.  
 
 ## 🌟 Características Especiales  
 
 - **Gestión de estudiantes** y profesorado  
-- Dashboard interactivo con métricas en tiempo real  
+- *Dashboard* interactivo con métricas en tiempo real  
 - Sistema de **calificaciones** automatizado  
-- Comunicación integrada entre padres, estudiantes y docentes  
+- Comunicación integrada entre *padres*, estudiantes y docentes  
 - Reportes **personalizables** y análisis estadísticos
 
 
@@ -61,13 +61,13 @@ El **ROI** (Return on investement) se calcula como $ROI = \frac{Beneficio -Inver
 
 ### Frontend
 - **React.js** v18.2.0
-- Material-UI para componentes
+- *Material-UI* para componentes
 - **TypeScript** para tipado estático
 
 ### Backend
-- Node.js con Express
+- *Node.js* con Express
 - **MongoDB** como base de datos
-- JWT para autenticación
+- *JWT* para autenticación
 
 <br>
 
@@ -76,16 +76,16 @@ El **ROI** (Return on investement) se calcula como $ROI = \frac{Beneficio -Inver
 - [x] Implementar sistema de login  
 - [x] Crear dashboard principal  
 - [ ] Añadir módulo de **calificaciones**  
-- [ ] Integrar sistema de notificaciones  
+- [ ] Integrar sistema de *notificaciones*  
 - [ ] Desarrollar app móvil  
 - [ ] Implementar **analytics** avanzados
 
 ## 🤝 Contribuir al Proyecto
 
 ¿Quieres ayudar? ¡Genial! Sigue estos pasos:
-1. Haz un fork del repositorio  
+1. Haz un *fork* del repositorio  
 2. Crea una rama para tu **feature**: ``` git checkout -b nueva-funcionalidad ```
-3. Realiza tus cambios y haz commit
+3. Realiza tus *cambios* y haz commit
 4. Envía un **pull request**
 
 ## 📧 Contacto y Soporte
